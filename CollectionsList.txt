@@ -1,0 +1,5 @@
+# Users:
+To store user authentication information.
+
+# Journeys:
+To store details of each travel journey, including locations, photos, notes, and timestamps.
