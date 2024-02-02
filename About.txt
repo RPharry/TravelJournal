@@ -1,0 +1,38 @@
+APP IDEA :Travel Journal App
+PURPOSE OF APPLICATION :
+The Travel Journal app is designed to help users document 
+and share their travel experiences seamlessly. Users can create
+digital travel diaries by logging locations visited, attaching 
+photos and notes, and creating a visual narrative of their 
+journeys. The app aims to provide a personalized and 
+engaging platform for users to reminisce about their 
+adventures and share them with friends and family.
+LIST OF CONCEPT TO BE USED:
+Planning:
+ Define goals and features.
+ Identify target audience.
+ Creating wireframes/mockups.
+Front-End:
+ Choosing a framework (React, Angular, etc.).
+ Designing UI (Figma, Sketch).
+ Use HTML, CSS, and JavaScript.
+ Integrating mapping APIs (Google Maps, Mapbox).
+ Implementing user authentication.
+Back-End:
+ Choosing a server-side language (Node.js, Python, 
+etc.).
+ Selecting a database (MySQL, PostgreSQL, 
+MongoDB).
+ Develop APIs.
+ Implement secure authentication.
+ Choosing a hosting service (AWS, Heroku).
+Functionality:
+ Manage user data (create, edit, delete journeys).
+ Integrate notifications (push, email).
+ Payment integration (if applicable).
+Testing and Deployment:
+ Conduct thorough testing.
+ Deploy to a production environment.
+Monitoring and Analytics:
+ Implement monitoring tools.
+ Integrate analytics for insights
