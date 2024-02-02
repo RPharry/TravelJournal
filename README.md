@@ -1,6 +1,3 @@
-Absolutely, let's enhance the GitHub README with professional icons and refined styling:
-
-```markdown
 # 🌍 Travel Journal App
 
 The Travel Journal App empowers users to seamlessly document and share their travel experiences. Craft digital travel diaries, log locations, attach photos and notes, and relive your adventures with friends and family.
